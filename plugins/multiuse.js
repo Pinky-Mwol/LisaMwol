@@ -8,8 +8,8 @@ Asena.addCommand({ pattern: 'insta ?(.*)', fromMe: false, desc: IG_DESC }, async
     //if(match[1] == '') return
     let { data, type } = await instaGram(match[1], '917058a2392ad776');
     //if(type == undefined) return 
-    if (type === 'image') { await message.sendMessage(data, MessageType.image, { caption: "Downloaded by Meenakshi" }) }
-    else if (type === 'video') { await message.sendMessage(data, MessageType.video, { caption: "Downloaded by Meenakshi" }) }
+    if (type === 'image') { await message.sendMessage(data, MessageType.image, { caption: "Downloaded by LisaMwol" }) }
+    else if (type === 'video') { await message.sendMessage(data, MessageType.video, { caption: "Downloaded by LisaMwol" }) }
 });
 //const axios = require('axios')
 async function instaGram(url, key){
