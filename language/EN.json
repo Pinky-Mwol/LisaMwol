@@ -185,17 +185,17 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song CrminalCrush-Srinisha```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "*⬇️Downloading your 🎶song...💁🏻‍♀️*",
-            "UPLOADING_SONG": "*⬆️Uploading your song🎵...💁🏻‍♀️Use 🎧*",
+            "DOWNLOADING_SONG": "```Downloading your song...```",
+            "UPLOADING_SONG": "```Uploading your song...```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/RF2__n_R6lU```",
-            "DOWNLOADING_VIDEO": "*⬇️Downloading your video...📽*",
-            "UPLOADING_VIDEO": "*⬆️Uploading your video...📽*",
+            "DOWNLOADING_VIDEO": "````Downloading your video...```",
+            "UPLOADING_VIDEO": "```Uploading your video...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "* 🔎 Searching...*",
+            "SEARCHING": "```Searching...```",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
@@ -203,7 +203,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```It's very easy...💁🏻‍♀️```"
+            "DOWNLOADING": "```Media downloading & converting to sticker...```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -224,14 +224,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Meenakshi is completely up-to-date💁🏻‍♀️!*",
-            "NEW_UPDATE": "*⚠️New update available for Meenakshi Mol👩🏻‍🔧!*\n \n```Type .update now for update Meenakshi(Bot)```\n \n*Please ask support group before updating me! Otherwise get to change error🤷🏻‍♀️*\n \n*Support Group link : https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR*\n \nChanges:\n```",
+            "UPDATE": "```LisaMwol is completely up-to-date!```",
+            "NEW_UPDATE": "```New update available for LisaMwol!\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```👩🏻‍🔧 Updating Meenakshi...Build Started by user...```🌈",
+            "UPDATING": "```Updating LisaMwol```",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "```✅Updated! Build succeeded💁🏻‍♀️```",
-            "UPDATED_LOCAL": "```✅Updated! Build succeeded💁🏻‍♀️```",
-            "AFTER_UPDATE": "```Meenakshi Restarting 🙋🏻‍♀️!```",
+            "UPDATED": "```✅Updated LisaMwol!```",
+            "UPDATED_LOCAL": "```✅Updated LisaMwol!```",
+            "AFTER_UPDATE": "```LisaMwol Restarting!```",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
