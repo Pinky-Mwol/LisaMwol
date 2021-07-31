@@ -5,19 +5,19 @@
 
 ## 📢Introduce myself
 
-- 🙂 I'm Vishnu Prasad
+- 🙂 I'm Shahid-KLDM
 - 🚩 I'm a beginner in this field
-- 📍 From Cheravally,Kayamkulam,Kerala,🇮🇳
-- 🎮 BGMI player (ID:5444486441)
-- 🏫 High School at Sree Narayana Central School,Kayamkulam
-- 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
+- 📍 From Kasaragod,Koliyadukkam,Kerala,😻
+- 🎮 Freefire player (ID:5444486441)
+- 🏫 Chattanchal Higher Secondary School,Kasaragod
+- 🏫 +2 Commerce Chatanchal Higher Secondary School
 
 ```
 This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
 ```
 
 <div align="center">
-  <img border-radius: 15px src="LisaMwol[2].jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/87538784?v=4" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="LisaMwol" src="https://img.shields.io/badge/LisaMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -68,7 +68,7 @@ Project created by <a href="https://github.com/Shahid-KLDM">Shahid-KLDM</a> to m
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HjNkGgzchYC8CaaqiDcTbz)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shahid-KLDM&repo=LisaMwol&theme=nightowl)](https://github.com/Shahid-KLDM/LisaMwol)
